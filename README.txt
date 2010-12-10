@@ -19,7 +19,7 @@
 	Ceist is a rule based Question Generation system. It builds using the latest
 	version of NetBeans.
 	
-	Ceist using syntax parsed trees (STP files) and a vast amount of these
+	Ceist uses syntax parsed trees (STP files) and a vast amount of these
 	are available at https://github.com/bjwyse/OpenLearn_SyntaxTrees.
 	
 	The rules are written using Tregex expressions. (See http://nlp.stanford.edu/software/tregex.shtml)
